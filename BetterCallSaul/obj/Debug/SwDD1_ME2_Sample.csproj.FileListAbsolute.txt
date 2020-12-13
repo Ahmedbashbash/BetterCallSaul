@@ -1,0 +1,7 @@
+C:\Users\HP 15-bs\Desktop\NIK2\swdd1\SwDD1_ME2_Sample\SwDD1_ME2_Sample\bin\Debug\SwDD1_ME2_Sample.exe.config
+C:\Users\HP 15-bs\Desktop\NIK2\swdd1\SwDD1_ME2_Sample\SwDD1_ME2_Sample\bin\Debug\SwDD1_ME2_Sample.exe
+C:\Users\HP 15-bs\Desktop\NIK2\swdd1\SwDD1_ME2_Sample\SwDD1_ME2_Sample\bin\Debug\SwDD1_ME2_Sample.pdb
+C:\Users\HP 15-bs\Desktop\NIK2\swdd1\SwDD1_ME2_Sample\SwDD1_ME2_Sample\obj\Debug\SwDD1_ME2_Sample.csprojAssemblyReference.cache
+C:\Users\HP 15-bs\Desktop\NIK2\swdd1\SwDD1_ME2_Sample\SwDD1_ME2_Sample\obj\Debug\SwDD1_ME2_Sample.csproj.CoreCompileInputs.cache
+C:\Users\HP 15-bs\Desktop\NIK2\swdd1\SwDD1_ME2_Sample\SwDD1_ME2_Sample\obj\Debug\SwDD1_ME2_Sample.exe
+C:\Users\HP 15-bs\Desktop\NIK2\swdd1\SwDD1_ME2_Sample\SwDD1_ME2_Sample\obj\Debug\SwDD1_ME2_Sample.pdb
