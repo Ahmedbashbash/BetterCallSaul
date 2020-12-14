@@ -39,4 +39,4 @@ of previous meetings (e.g. consultancy;15 for a 15 minute long general discussio
    - CalculateTotalIncome(): based on the bill of each case, it sums the incomes for Saul
    - FavoriteClient(): it picks the client who has the biggest number of long sessions
    - SaveFile(): this function creates a new text file, then writes only two values separated by a comma into it:
-   the total income and the name of the favorite client
+   the total income and the name of the favorite client.
